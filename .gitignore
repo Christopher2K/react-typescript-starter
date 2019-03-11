@@ -1,0 +1,10 @@
+# IDE
+.idea
+.atom
+.vscode
+
+# Deps
+node_modules
+
+# Misc
+.DS_STORE
