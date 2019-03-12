@@ -5,6 +5,7 @@
 
 # Deps
 node_modules
+yarn-error.log
 
 # Misc
 .DS_STORE
